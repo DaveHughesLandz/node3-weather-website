@@ -1,1 +1,0 @@
-console.log("Clientside javascript file is loaded")
